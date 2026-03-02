@@ -1,0 +1,5 @@
+{
+  "name": "Paimonflix",
+  "description": "A movie and TV show streaming platform with search and playback capabilities.",
+  "requestFramePermissions": []
+}
